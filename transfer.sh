@@ -23,5 +23,5 @@ done
 
 echo "All .bsp files have been copied and compressed using bzip2."
 
-echo "Deleting undesirable maps"
+echo "how to implement a blacklist"
 rm ./tf/maps/surf_kitsune2_tf2.bsp.bz2
